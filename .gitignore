@@ -1,0 +1,20 @@
+# hackage-server
+build-cache/
+mirror-cache/
+state/
+backups/
+# cabal
+.ghc.environment.*
+dist/
+dist-newstyle/
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.project.local
+# editor
+tags
+*.swp
+TAGS
+*~
+.direnv
+
+result*
